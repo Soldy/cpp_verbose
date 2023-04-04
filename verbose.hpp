@@ -1,3 +1,5 @@
+#ifndef __CPP_VERBOSE_HPP_
+#define __CPP_VERBOSE_HPP_
 #include <string>
 
 namespace cpp_verbose{
@@ -20,3 +22,4 @@ namespace cpp_verbose{
                 std::endl;
     };
 };
+#endif
